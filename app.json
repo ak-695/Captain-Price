@@ -15,7 +15,7 @@
       "inline"
     ],
     "website": "https://www.kisarapesanjith.ga",
-    "repository": "https://github.com/KisaraPesanjithPerera/Captain-Price",
+    "repository": "https://github.com/ak-695/Captain-Price",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Bot token.",
